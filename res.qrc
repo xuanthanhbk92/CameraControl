@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>icon/icon.png</file>
+        <file>icon/camera.png</file>
+        <file>icon/fps.png</file>
+        <file>icon/move.png</file>
+        <file>icon/movie.png</file>
+        <file>icon/posittion.png</file>
+        <file>icon/ptr.png</file>
+        <file>icon/record.png</file>
+        <file>icon/setting.png</file>
+        <file>icon/star.png</file>
+        <file>icon/coordinate.png</file>
+        <file>icon/power.png</file>
+        <file>icon/rig.png</file>
+        <file>icon/coordinate1.png</file>
+        <file>icon/position.png</file>
+    </qresource>
+</RCC>
