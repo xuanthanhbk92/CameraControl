@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>645</width>
-    <height>390</height>
+    <width>755</width>
+    <height>446</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -22,7 +22,7 @@
         <item>
          <widget class="QLabel" name="Icon">
           <property name="sizePolicy">
-           <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+           <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
             <horstretch>0</horstretch>
             <verstretch>0</verstretch>
            </sizepolicy>
@@ -511,7 +511,7 @@ Position</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>645</width>
+     <width>755</width>
      <height>15</height>
     </rect>
    </property>
