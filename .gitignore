@@ -33,6 +33,6 @@
 
 # User config
 
-.user
-.autosave
+*.user
+*.autosave
 

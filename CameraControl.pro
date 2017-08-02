@@ -20,4 +20,8 @@ HEADERS  += mainwindow.h
 FORMS    += mainwindow.ui
 
 RESOURCES += \
-    res.qrc
+    res.qrc \
+    style.qrc
+
+DISTFILES += \
+    style.qss

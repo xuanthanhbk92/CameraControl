@@ -15,5 +15,6 @@
         <file>icon/rig.png</file>
         <file>icon/coordinate1.png</file>
         <file>icon/position.png</file>
+        <file>icon/kfx.png</file>
     </qresource>
 </RCC>
