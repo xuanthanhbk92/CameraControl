@@ -5,7 +5,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
+//    QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling); /**Disable for travis build */
     licenseChecker();
     /** Init log */
     qSetMessagePattern(QT_MESSAGE_PATTERN);
