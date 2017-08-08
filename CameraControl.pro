@@ -4,13 +4,14 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT       += core gui widgets network
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 TARGET = CameraControl
 TEMPLATE = app
 CONFIG += c++11
+CONFIG+= debug
 #redirect qmakeinput to logfile
 
 #DEFINES += REDIRECT_DEBUG_TO_LOG=0
