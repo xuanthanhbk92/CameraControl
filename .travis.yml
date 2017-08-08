@@ -10,6 +10,6 @@ install:
 
 script:
  - source /opt/qt55/bin/qt55-env.sh
- - /opt/qt55/bin/qmake -qt=qt5 -v
- - /opt/qt55/bin/qmake -qt=qt5
+ - /opt/qt55/bin/qmake -v
+ - /opt/qt55/bin/qmake
  - make
